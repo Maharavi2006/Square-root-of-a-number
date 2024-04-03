@@ -13,11 +13,9 @@ To write a program to find the square root of a number.
 5. Return number
 ## Program:
 ```
-/*
-Program to find the square root for the given number(newton's method) using function.
 Developed by: Mahalakshmi.R
 RegisterNumber:212223230117  
-*/
+
 def newton_square_root(number):
     if number<0:
         print("Square root is not defined for negative numbers")
